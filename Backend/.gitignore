@@ -1,0 +1,10 @@
+# Dependencies
+/node_modules
+/coverage
+
+# Environment
+.env
+
+# Prisma (Generated client and artifacts)
+/prisma/generated
+/generated/prisma
